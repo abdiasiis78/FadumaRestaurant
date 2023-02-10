@@ -1,0 +1,200 @@
+
+*{
+   font-family: Arial, Arial bold, Arial ;  
+   box-sizing: border-box;      
+   margin: 0;
+   padding: 0;
+
+}
+
+header{
+  background-color: #454f6f;
+  padding: 2.4rem;
+  text-align: center;
+}
+
+ nav {
+   display: flex;  
+   align-items: center; 
+   justify-content: space-around;  
+   text-align: center; 
+}
+
+nav a{
+ text-decoration: none;
+ color: white;
+
+}
+
+
+.logo{
+ font-size: 1.5rem;
+ font-weight: 600;
+}
+
+.navs a{
+   padding: 1.1rem;
+   font-size: 1.3rem;
+}
+
+.hero{
+   background-color: #e6834c;
+   padding: 5rem;
+   text-align: center;
+   align-items: center;
+}
+
+.hero h1{
+ margin: 3rem 0;
+ font-size: 4rem;
+ font-weight: 700;
+ color: white;
+ font-family: Arial, Arial bold, Arial;
+
+}
+
+.hero p{
+  font-size: 2.3rem;
+  margin-bottom: 2rem;
+ font-weight: 400;
+ color: white;
+ font-family: Arial, Arial bold, Arial;
+
+}
+
+.center-content{
+ text-align: center;
+ margin-top: 2.5rem;
+}
+
+.content{
+ background-color: #ebeef8;
+ margin: 2rem 11rem;
+ border-radius: 5px;
+
+}
+
+.center-content h2{
+  font-size: 2.4rem;
+  padding-top: 2.5rem;
+}
+
+.center-content p{
+  margin: 2rem 11rem;
+  padding-bottom: 2rem;
+  line-height: 1.8rem;
+ 
+}
+
+.container{
+   width: 80%;
+   margin: auto;
+   text-align: center;
+   padding-top: 5rem;
+}
+
+.row{
+  display: flex;
+  margin-top: 4%;
+  justify-content: space-between;                
+}
+
+.row-container{
+ flex-basis: 45%;
+ margin-bottom: 4%;
+padding: 1.25rem 0.75rem;
+}
+
+.row-container h3{
+ padding: 1.3rem;
+ font-size: 1.5rem;
+}
+
+.description{
+ line-height: 1.8rem;
+ font-size: 1.1rem;
+}
+
+
+footer{
+ background-color: #e6834c;
+ padding: 2rem;
+ text-align: center;
+ align-items: center;
+}
+
+footer p{
+  font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
